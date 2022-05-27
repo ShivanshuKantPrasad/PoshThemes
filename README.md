@@ -1,3 +1,8 @@
+> **Warning**
+> 
+> Oh-my-posh has since update several times since this theme was released and no longer supports .psm themes as far as i know.
+> As such these themes no longer work and are no longer maintained.
+
 # PoshThemes
 
 Repository of my custom Themes.
